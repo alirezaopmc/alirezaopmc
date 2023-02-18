@@ -1,11 +1,11 @@
 Salam! (Hello in persia)
 
-I am:
+I am a:
 * Problem solver (I practice at codeforces and leetcode)
 * AI lover (ML and RL mostly)
 * OpenAI big fan
 * ChatGPT troller
 * Fullstack developer (NextJs + NestJs)
-* a newbie pianist
+* Newbie pianist
 
 ![AlirezaOpmc's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezaopmc&show_icons=true&theme=transparent)
