@@ -2,9 +2,8 @@ Salam! (Hello in persia)
 
 I am a:
 * Problem solver (I practice at codeforces and leetcode)
-* AI lover (ML and RL mostly)
+* AI lover
 * OpenAI big fan
-* ChatGPT troller
 * Fullstack developer (NextJs + NestJs)
 * Newbie pianist
 
